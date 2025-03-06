@@ -12,7 +12,7 @@ Step Counter is an Android application that utilizes the device's built-in step 
 - **Automatic reset** of step count when the timer starts.
 
 # Upload Demo video 
-
+https://github.com/user-attachments/assets/5147b7e4-f934-46b2-8950-26f20d1cda9b
 
 # Installation
 1. Clone the repository:
